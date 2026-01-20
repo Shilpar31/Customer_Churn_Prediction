@@ -30,6 +30,6 @@ The goal is to identify customers likely to discontinue services using the Telco
 - Google Colab
 
 ## How to Run
-1. Open the notebook in Google Colab
-2. Upload the dataset
+1. Open the notebook in Google Colab - colab file attached
+2. Upload the dataset - Telco dataset attached, or you can find it in kaggle
 3. Run all cells sequentially
