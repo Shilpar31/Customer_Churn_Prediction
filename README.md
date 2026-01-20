@@ -1,7 +1,4 @@
-# Customer_Churn_Prediction
-This project predicts whether a customer will churn using a PyTorch-based neural network trained on the Telco customer dataset
-# Customer Churn Prediction using PyTorch
-
+# Customer_Churn_Prediction using PyTorch
 ## Overview
 This project predicts customer churn using a neural network built with PyTorch. 
 The goal is to identify customers likely to discontinue services using the Telco Customer Churn dataset.
